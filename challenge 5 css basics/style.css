@@ -68,14 +68,21 @@ footer {
   list-style: none;
   padding: 0;
   margin: 10px 0;
+  text-align: center;
 }
 
 .social-media li {
   display: inline;
-  margin-right: 10px;
+  margin: 0 10px;
 }
 
 .social-media li a {
-  color: #ff8800;
   text-decoration: none;
+  color: white;
+}
+
+.social-media li img {
+  width: 30px;
+  height: auto;
+  border: none;
 }
