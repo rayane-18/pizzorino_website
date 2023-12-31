@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Pikachu",
+    "TypeofPokemon": "Electric",
+    "Description": "A cute and electric Pokemon",
+    "Weakness": "Ground",
+    "Drops": "Thunder Stone"
+  },
+  {
+    "Name": "Charmander",
+    "TypeofPokemon": "Fire",
+    "Description": "A fire-type starter Pokemon",
+    "Weakness": "Water",
+    "Drops": "Charizardite"
+  }
+]

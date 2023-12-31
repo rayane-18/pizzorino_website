@@ -1,0 +1,98 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.pokemon-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.pokemon-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.delete-button,
+cancel-button {
+  padding: 8px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.edit-button {
+  padding: 8px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #3ce775;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.edit-button:hover {
+  background-color: #117533;
+}
+.delete-button:hover,
+cancel-button:hover {
+  background-color: #c0392b;
+}
+
+.update-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.update-input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.update-button {
+  padding: 8px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #2ecc71;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.update-button:hover {
+  background-color: #27ae60;
+}

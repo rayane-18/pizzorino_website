@@ -1,0 +1,74 @@
+import React, { useState, useEffect } from 'react'; import axios from 'axios';
+const App = () => { const [pokemons, setPokemons] = useState([]); const
+[newPokemon, setNewPokemon] = useState({ Name: '', TypeofPokemon: '',
+Description: '', Weakness: '', Drops: '', }); const fetchPokemons = async () =>
+{ try { const response = await axios.get('http://localhost:3000/AllPokemons');
+setPokemons(response.data); } catch (error) { console.error('Error fetching
+pokemons:', error); } }; const handleInputChange = (e) => { const { name, value
+} = e.target; setNewPokemon((prev) => ({ ...prev, [name]: value })); }; const
+addPokemon = async () => { try { await
+axios.post('http://localhost:3000/AddPokemon', newPokemon); fetchPokemons(); //
+Refresh the list after adding a new Pokemon setNewPokemon({ Name: '',
+TypeofPokemon: '', Description: '', Weakness: '', Drops: '', }); } catch (error)
+{ console.error('Error adding pokemon:', error); } }; useEffect(() => {
+fetchPokemons(); }, []); // Fetch pokemons when the component mounts return (
+<div>
+  <h1>Pokemon List</h1>
+
+  <div>
+    <h2>Add Pokemon</h2>
+    <form>
+      <label>Name:</label>
+      <input
+        type="text"
+        name="Name"
+        value="{newPokemon.Name}"
+        onChange="{handleInputChange}"
+      />
+
+      <label>Type of Pokemon:</label>
+      <input
+        type="text"
+        name="TypeofPokemon"
+        value="{newPokemon.TypeofPokemon}"
+        onChange="{handleInputChange}"
+      />
+
+      <label>Description:</label>
+      <input
+        type="text"
+        name="Description"
+        value="{newPokemon.Description}"
+        onChange="{handleInputChange}"
+      />
+
+      <label>Weakness:</label>
+      <input
+        type="text"
+        name="Weakness"
+        value="{newPokemon.Weakness}"
+        onChange="{handleInputChange}"
+      />
+
+      <label>Drops:</label>
+      <input
+        type="text"
+        name="Drops"
+        value="{newPokemon.Drops}"
+        onChange="{handleInputChange}"
+      />
+
+      <button type="button" onClick="{addPokemon}">Add Pokemon</button>
+    </form>
+  </div>
+
+  <div>
+    <h2>Pokemon List</h2>
+    <ul>
+      {pokemons.map((pokemon) => (
+      <li key="{pokemon._id}">{pokemon.Name} - {pokemon.TypeofPokemon}</li>
+      ))}
+    </ul>
+  </div>
+</div>
+); }; export default App;
