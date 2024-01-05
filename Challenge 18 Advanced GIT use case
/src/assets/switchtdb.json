@@ -1,0 +1,2029 @@
+[
+  {
+    "$": {
+      "name": "Remnant: From the Ashes (EN,FR,DE,ES,IT,PT,JA,KO,ZHTW,ZHCN,RU)"
+    },
+    "id": "A3C7A",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,PT,JA,KO,ZHTW,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Remnant: From the Ashes",
+      "synopsis": ""
+    },
+    "developer": "Gunfire Games ",
+    "publisher": "THQ Nordic",
+    "date": {
+      "$": {
+        "year": "2023",
+        "month": "3",
+        "day": "21"
+      }
+    },
+    "genre": "action,adventure",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": ["blood", "violence", "strong language"]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": ["language", "violence"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Remnant: From the Ashes (EN,FR,DE,ES,IT,PT,JA,KO,ZHTW,ZHCN,RU).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Star Wars Jedi Knight Collection (EN,FR,DE,ES,IT,JA,KO,ZHCN)"
+    },
+    "id": "A4T9A",
+    "type": "Switch",
+    "region": "USA,EUR",
+    "languages": "EN,FR,DE,ES,IT,JA,KO,ZHCN",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Star Wars Jedi Knight Collection",
+      "synopsis": "Get two classic Star Wars™ games with theStar Wars™ Jedi Knight Collection, which includes Star Wars™ Jedi Knight II: Jedi Outcast and Star Wars™ Jedi Knight: Jedi Academy.\r\n\r\nMeet iconic Star Wars™ characters such as Lando Calrissian and Luke Skywalker in Star Wars™ Jedi Knight II: Jedi Outcast, where you play as the Jedi Kyle Katarn, employing a unique mix of weapons, Force™ powers and your lightsaber™ in single-player first- and third-person action. Follow an ancient tradition and learn the powers - and dangers - of the Force™ in Star Wars™ Jedi Knight: Jedi Academy, a single- and multiplayer action combat game."
+    },
+    "developer": "Aspyr Media",
+    "publisher": "THQ Nordic",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "genre": "action,adventure",
+    "rating_ESRB": {
+      "$": {
+        "value": "T"
+      },
+      "descriptor_ESRB": "violence"
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": [
+      {
+        "$": {
+          "version": "1.0.0",
+          "name": "Star Wars Jedi Knight Collection (EN,FR,DE,ES,IT,JA,KO,ZHCN) (v1.0.0).switch",
+          "size": "7985958912",
+          "crc": "c9ccd6dd",
+          "md5": "48ca9de8d9bd74b5b79071577decb6d2",
+          "sha1": "b46bbc0ec5289469f47fadfc773e97fc31e40258"
+        }
+      },
+      {
+        "$": {
+          "version": "1.0.5",
+          "name": "Star Wars Jedi Knight Collection (EN,FR,DE,ES,IT,JA,KO,ZHCN) (v1.0.5).switch",
+          "size": "7985958912",
+          "crc": "ae4d87ef",
+          "md5": "eee7133141aed89ee65bd15082e739a5",
+          "sha1": "37e0160d3b09fdb19828d5298ca61768940d215a"
+        }
+      }
+    ]
+  },
+  {
+    "$": {
+      "name": "Star Wars Jedi Knight Collection (EN,FR,DE,ES,IT,JA,KO,ZHCN)"
+    },
+    "id": "A4T9B",
+    "type": "Switch",
+    "region": "JPN",
+    "languages": "EN,FR,DE,ES,IT,JA,KO,ZHCN",
+    "locale": [
+      {
+        "$": {
+          "lang": "EN"
+        },
+        "title": "Star Wars Jedi Knight Collection",
+        "synopsis": "Get two classic Star Wars games with the Star Wars Jedi Knight Collection, which includes Star Wars Jedi Knight II: Jedi Outcast and Star Wars Jedi Knight: Jedi Academy.\r\n\r\nMeet iconic Star Wars characters such as Lando Calrissian and Luke Skywalker in inStar Wars Jedi Knight II: Jedi Outcast, where you play as the Jedi Kyle Katarn, employing a unique mix of weapons, Force powers, and your lightsaber in single-player first- and third-person action. Follow an ancient tradition and learn the powers - and dangers - of the Force in inStar Wars Jedi Knight: Jedi Academy, a single- and multiplayer action combat game."
+      },
+      {
+        "$": {
+          "lang": "JA"
+        },
+        "title": "スター・ウォーズ ジェダイナイト コレクション",
+        "synopsis": ""
+      }
+    ],
+    "developer": "Aspyr Media",
+    "publisher": "THQ Nordic Japan",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "genre": "action,adventure",
+    "rating_CERO": {
+      "$": {
+        "value": "D"
+      },
+      "descriptor_CERO": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Star Wars Jedi Knight Collection (EN,FR,DE,ES,IT,JA,KO,ZHCN).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Unsouled (EN,DE,JA,KO)"
+    },
+    "id": "A7N5A",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,DE,JA,KO",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Unsouled",
+      "synopsis": ""
+    },
+    "publisher": "NEOWIZ",
+    "date": {
+      "$": {
+        "year": "2022",
+        "month": "4",
+        "day": "27"
+      }
+    },
+    "genre": "action,adventure,fighting,role-playing",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": ["blood and gore", "violence"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Unsouled (EN,DE,JA,KO).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Sonic Frontiers (EN,JA,KO,ZHTW,ZHCN)"
+    },
+    "id": "A39ZB",
+    "type": "Switch",
+    "region": "JPN,KOR,TWN,CHN",
+    "languages": "EN,JA,KO,ZHTW,ZHCN",
+    "locale": [
+      {
+        "$": {
+          "lang": "EN"
+        },
+        "title": "Sonic Frontiers",
+        "synopsis": "EXPERIENCE SONIC LIKE NEVER BEFORE\r\n​\r\nWorlds are colliding in Sonic the Hedgehog’s newest high-speed adventure! In search of the missing Chaos emeralds, Sonic becomes stranded on an ancient island teeming with unusual creatures. Battle hordes of powerful enemies as you explore a breathtaking world of action, adventure, and mystery. Accelerate to new heights and experience the thrill of high-velocity, open-zone platforming freedom as you race across the five massive Starfall Islands. Jump into adventure, wield the power of the Ancients, and fight to stop these new mysterious foes.Welcome to the evolution of Sonic games!"
+      },
+      {
+        "$": {
+          "lang": "JA"
+        },
+        "title": "ソニックフロンティア",
+        "synopsis": ""
+      },
+      {
+        "$": {
+          "lang": "KO"
+        },
+        "title": "소닉 프론티어",
+        "synopsis": ""
+      },
+      {
+        "$": {
+          "lang": "ZHTW"
+        },
+        "title": "索尼克 未知邊境",
+        "synopsis": ""
+      }
+    ],
+    "publisher": "SEGA",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_JPN": {
+      "$": {
+        "year": "2022",
+        "month": "11",
+        "day": "8"
+      }
+    },
+    "genre": "action",
+    "rating_CERO": {
+      "$": {
+        "value": "A"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Sonic Frontiers (EN,JA,KO,ZHTW,ZHCN).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Atari 50: The Anniversary Celebration (EN,FR,DE,ES,IT,JA)"
+    },
+    "id": "A85DA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,JA",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Atari 50: The Anniversary Celebration",
+      "synopsis": "Join the celebration! Atari 50: The Anniversary Celebration takes you on an interactive journey through 50 years of video games.\r\n\r\nAt the heart of Atari 50 are the Interactive Timelines, which combine historical trivia, digital artifacts, over 60 minutes of new interviews, documentary footage, and playable games into one cohesive experience. When you encounter a game in the Timelines, you can immediately play it without losing your place.\r\n\r\nThe massive selection of over 100 games spans seven different platforms: Arcade, 2600, 5200, 7800, Atari 8-bit computers, and, for the first time ever on modern consoles, Atari Lynx and Jaguar! Play the classics like Tempest 2000, Asteroids, and Yars' Revenge, or dive into some deeper cuts.\r\n\r\nBehind every game are the stories of Atari, what was happening at the company, and what went into the creation of the games and the hardware on which they ran, all told by the people who were there.\r\n\r\nKey Features:\r\n\r\nExperience gaming history through Interactive Timelines and relive the Golden Age of Gaming\r\n\r\nOver 100 classic games from 7 different vintage platforms including Arcade, 2600, 5200, 7800, Atari 8-bit computers, and, for the first time ever on modern consoles, Atari Lynx and Jaguar\r\n\r\n6 all-new games inspired by Atari classics including the 4th installment in the Swordquest series, Airworld\r\n\r\nHear from the creators who launched an entire industry and those they inspired\r\n\r\nA complete package for any video game fan"
+    },
+    "publisher": "Atari",
+    "date": {
+      "$": {
+        "year": "2022",
+        "month": "11",
+        "day": "11"
+      }
+    },
+    "genre": "action,arcade",
+    "rating_ESRB": {
+      "$": {
+        "value": "T"
+      },
+      "descriptor_ESRB": [
+        "blood",
+        "fantasy violence",
+        "language",
+        "mild sexual themes",
+        "drug reference"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": ["language", "drugs", "violence"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "4"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Atari 50: The Anniversary Celebration (EN,FR,DE,ES,IT,JA).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Astral Chain (EN,FR,DE,ES,IT,JA,KO,ZHTW,RU)"
+    },
+    "id": "AB48A",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,JA,KO,ZHTW,RU",
+    "locale": [
+      {
+        "$": {
+          "lang": "EN"
+        },
+        "title": "Astral Chain",
+        "synopsis": "Master multiple combat styles in this synergetic action game!\r\n\r\nHumanity’s last chance against an interdimensional invasion is a special living weapon called the Legion. As a rookie officer in the elite police task force Neuron, you and your Legion will work together to solve cases and save humankind.\r\n\r\nThe ASTRAL CHAIN game gives you full control over two characters at once for thrilling Synergetic Action, courtesy of PlatinumGames. Alternate between several Legion types and skills to save the world your way."
+      },
+      {
+        "$": {
+          "lang": "FR"
+        },
+        "title": "Astral Chain",
+        "synopsis": "Apprenez à maîtriser un style de combat nerveux et synergique pour lutter contre une invasion extraterrestre dans ASTRAL CHAIN™, le nouveau jeu d'action-aventure de PlatinumGames, en exclusivité sur Nintendo Switch. Rejoignez une unité de police spéciale et collaborez avec une arme vivante pour résoudre des enquêtes et sauver l'humanité !\r\n\r\nAu bord de l'extinction\r\nDans un avenir proche, la Terre est en proie à l'invasion de créatures venues d'une autre dimension : les Chimères. Ces monstres répandent la corruption au moyen d'une substance mystérieuse, la matière rouge, forçant l'humanité à trouver refuge au sein d'une mégapole multiculturelle : l'Arche.\r\n\r\nBienvenue à Neuron !\r\nQuand les Chimères atteignent l'Arche, le seul espoir de survie devient Neuron, une force d'intervention d'élite équipée d'une arme très spéciale répondant au nom de code Légion. Choisissez parmi deux personnages jouables, un homme ou une femme, et rejoignez les rangs de Neuron pour repousser l'invasion une fois pour toutes !\r\n\r\nFaites régner la justice !\r\nCombattez les Chimères avec votre Légion : faites équipe pour affronter deux ennemis simultanément ou combinez vos talents pour anéantir un seul adversaire. Alternez entre les différents types de Légions et de styles de combat pour varier vos attaques et réaliser des combos époustouflants !\r\n\r\nProtéger et servir\r\nExplorez la ville et faites équipe avec votre Légion pour aider Neuron à résoudre des enquêtes et protéger la ville des Chimères. Examinez les scènes de crime pour trouver des indices, venez en aide aux citoyens dans des quêtes secondaires, nettoyez la corruption et faites régner le calme et la sécurité dans la ville par tous les moyens !"
+      }
+    ],
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo",
+    "date": {
+      "$": {
+        "year": "2019",
+        "month": "8",
+        "day": "30"
+      }
+    },
+    "rating_ESRB": {
+      "$": {
+        "value": "T"
+      },
+      "descriptor_ESRB": [
+        "violence",
+        "language",
+        "drug reference",
+        "use of alcohol"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "2"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "true"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Astral Chain (EN,FR,DE,ES,IT,JA,KO,ZHTW,RU).switch"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Stardew Valley (EN,FR,DE,ES,IT,PT,JA,ZHCN,RU)"
+    },
+    "id": "ACPGA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,PT,JA,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Stardew Valley",
+      "synopsis": ""
+    },
+    "publisher": "Chucklefish LTD",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_EUR": {
+      "$": {
+        "year": "2020",
+        "month": "11",
+        "day": "20"
+      }
+    },
+    "genre": "role-playing",
+    "rating_PEGI": {
+      "$": {
+        "value": "12"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "4"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "3.0.1",
+        "name": "Stardew Valley (EN,FR,DE,ES,IT,PT,JA,ZHCN,RU).switch",
+        "size": "921953694",
+        "crc": "13cf0b86"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "The Elder Scrolls V: Skyrim (EN,FR,DE,ES,IT,RU)"
+    },
+    "id": "AF3CA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "The Elder Scrolls V: Skyrim",
+      "synopsis": "Epic Fantasy Reborn\r\n\r\n\r\nWinner of 200+ Game of the Year Awards, Skyrim® arrives on the Nintendo Switch™ console. The open-world adventure from Bethesda Game Studios® where you can virtually be anyone and do anything, now allows you to go anywhere—at home and on the go. New features include motion controls, gear based on the Legend of Zelda™ series, and amiibo™ compatibility.\r\n\r\nDragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand against them.\r\n\r\nLive another life, in another world—from battling ancient dragons, exploring rugged mountains, building a home, or mastering hundreds of weapons, spells and abilities. For the first time ever, go into battle Legend of Zelda style: fight with the Master Sword, guard with the Hylian Shield, while wearing the Champion's Tunic. The game also includes official add-ons—Dawnguard, Hearthfire, and Dragonborn.\r\n\r\nThe legendary open-world masterpiece from Bethesda Game Studios comes to the Nintendo Switch™ system\r\nIncludes all content from official add-ons: Dawnguard, Hearthfire, and Dragonborn\r\nUncover the mystery behind the return of the dragons in a massive open world to explore any way you choose\r\nLive another life, in another world and create your own custom character, and do virtually whatever you want.\r\nChoose from hundreds of weapons, spells, and abilities. The character system allows you to play almost any way you want and define yourself through your actions\r\nYour decisions matter in a world that changes dynamically based on your choices\r\nUse motion controls to battle with melee weapons, aim your bow, or pick locks, exclusively on Nintendo Switch™"
+    },
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "date": {
+      "$": {
+        "year": "2017",
+        "month": "11",
+        "day": "17"
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2017",
+        "month": "11",
+        "day": "17"
+      }
+    },
+    "genre": "action,role-playing",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": [
+        "blood and gore",
+        "intense violence",
+        "sexual themes",
+        "use of alcohol"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "18"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "3.0.1",
+        "name": "The Elder Scrolls V: Skyrim (EN,FR,DE,ES,IT,RU).switch",
+        "size": "15762357760",
+        "crc": "c5bca8df"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "The Elder Scrolls V - Skyrim (JA)"
+    },
+    "id": "AF3CB",
+    "type": "Switch",
+    "region": "JPN",
+    "languages": "JA",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "The Elder Scrolls V - Skyrim",
+      "synopsis": "Winner of 200+ Game of the Year Awards, Skyrim® arrives on the Nintendo Switch™ console. The open-world adventure from Bethesda Game Studios® where you can virtually be anyone and do anything, now allows you to go anywhere—at home and on the go. New features include motion controls, gear based on the Legend of Zelda™ series, and amiibo™ compatibility.\r\n\r\nDragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand against them.\r\n\r\nLive another life, in another world—from battling ancient dragons, exploring rugged mountains, building a home, or mastering hundreds of weapons, spells and abilities. For the first time ever, go into battle Legend of Zelda style: fight with the Master Sword, guard with the Hylian Shield, while wearing the Champion's Tunic. The game also includes official add-ons—Dawnguard, Hearthfire, and Dragonborn.\r\n\r\nThe legendary open-world masterpiece from Bethesda Game Studios comes to the Nintendo SwitchTM system\r\nIncludes all content from official add-ons: Dawnguard, Hearthfire, and Dragonborn\r\nUncover the mystery behind the return of the dragons in a massive open world to explore any way you choose\r\nLive another life, in another world and create your own custom character, and do virtually whatever you want.\r\nChoose from hundreds of weapons, spells, and abilities. The character system allows you to play almost any way you want and define yourself through your actions\r\nYour decisions matter in a world that changes dynamically based on your choices\r\nUse motion controls to battle with melee weapons, aim your bow, or pick locks, exclusively on Nintendo Switch™"
+    },
+    "publisher": "Bethesda",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_JPN": {
+      "$": {
+        "year": "2018",
+        "month": "2",
+        "day": "1"
+      }
+    },
+    "genre": "role-playing",
+    "rating_CERO": {
+      "$": {
+        "value": "Z"
+      },
+      "descriptor_CERO": "horror"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "3.0.1",
+        "name": "The Elder Scrolls V - Skyrim (JA).switch",
+        "size": "15882764288",
+        "crc": "65d1d644"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Batman: The Telltale Series (EN,FR,DE,ES,PT,RU)"
+    },
+    "id": "AGW3A",
+    "type": "Switch",
+    "region": "USA,EUR",
+    "languages": "EN,FR,DE,ES,PT,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Batman: The Telltale Series",
+      "synopsis": "Determine the fate of the Batman.\r\n\r\nThe billionaire and the bat: enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight. In this gritty and violent new story, you'll make discoveries that will shatter Bruce Wayne's world, and shake the stability of a corrupt Gotham City to its very foundations. At your disposal is the sophisticated genius of Wayne and the fearsome skills of the Batman. What happens next is entirely up to you.\r\n\r\nIncludes all five episodes of the first season."
+    },
+    "developer": "Telltale Games",
+    "publisher": "Telltale Games",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2017",
+        "month": "11",
+        "day": "14"
+      }
+    },
+    "date_EUR": {
+      "$": {
+        "year": "2017",
+        "month": "11",
+        "day": "17"
+      }
+    },
+    "genre": "adventure",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": [
+        "blood and gore",
+        "violence",
+        "language",
+        "sexual themes"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "18"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "3.0.1",
+        "name": "Batman: The Telltale Series (EN,FR,DE,ES,PT,RU).switch",
+        "size": "6964325888",
+        "crc": "f7bfcc54"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Dragon Ball FighterZ (EN,FR,DE,ES,IT,PT,JA,KO,ZHCN,RU)"
+    },
+    "id": "AM5WA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,PT,JA,KO,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Dragon Ball FighterZ",
+      "synopsis": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters.\r\n\r\nPartnering with Arc System Works, DRAGON BALL FighterZ maximizes high end Anime graphics and brings easy to learn but difficult to master fighting gameplay.\r\n\r\nHigh-end Anime Graphics\r\n\r\nUsing the power of the Unreal engine and the talented team at Arc System Works, DRAGON BALL FighterZ is a visual tour-de-force.\r\n\r\n3vs3 Tag/Support\r\n\r\nBuild your dream team and sharpen your skills to master high-speed tag combinations.\r\n\r\nThrilling Online Features\r\n\r\nRanked matches, interactive lobby, crazy 6-player Party Match... There is something for every taste!\r\n\r\nExclusive Story Mode\r\n\r\nDiscover a scenario featuring Android 21, a brand new character whose creation was supervised by Akira Toriyama himself."
+    },
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "date": {
+      "$": {
+        "year": "2019",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2018",
+        "month": "9",
+        "day": "18"
+      }
+    },
+    "genre": "action,fighting",
+    "rating_ESRB": {
+      "$": {
+        "value": "T"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "5.1.0",
+        "name": "Dragon Ball FighterZ (EN,FR,DE,ES,IT,PT,JA,KO,ZHCN,RU).switch",
+        "size": "7068822016",
+        "crc": "6c929128"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Minit (EN)"
+    },
+    "id": "APJ3A",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Minit",
+      "synopsis": ""
+    },
+    "publisher": "Devolver",
+    "date": {
+      "$": {
+        "year": "2022",
+        "month": "",
+        "day": ""
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "5.0.0",
+        "name": "Minit (EN).switch",
+        "size": "140124114",
+        "crc": "4659f5eb"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Wasteland 2: Director's Cut (EN,FR,DE,ES,RU)"
+    },
+    "id": "AQ8XA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Wasteland 2: Director's Cut",
+      "synopsis": "From the Producer of the original Fallout comes Wasteland 2, the sequel to the first-ever post-apocalyptic computer RPG.\r\n\r\nThe Wasteland's hellish landscape is waiting for you to make your mark... or die trying. With over 80 hours of gameplay, you will deck out your Desert Ranger squad with the most devastating weaponry this side of the fallout zone, test the limits of your strategy skills, and bring justice to the wasteland."
+    },
+    "developer": "InXile Entertainment",
+    "publisher": "inXile Entertainment",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2018",
+        "month": "9",
+        "day": "13"
+      }
+    },
+    "date_JPN": {
+      "$": {
+        "year": "2019",
+        "month": "5",
+        "day": "17"
+      }
+    },
+    "date_EUR": {
+      "$": {
+        "year": "2018",
+        "month": "9",
+        "day": "13"
+      }
+    },
+    "genre": "role-playing",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": [
+        "blood and gore",
+        "violence",
+        "strong language",
+        "sexual content",
+        "drug reference"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "18"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "5.0.0",
+        "name": "Wasteland 2: Director's Cut (EN,FR,DE,ES,RU).switch",
+        "size": "13056255160",
+        "crc": "7954b9e4"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "This War of Mine - Complete Edition (EN,FR,DE,ES,IT,PT,TR,JA,KO,ZHCN,RU,PL)"
+    },
+    "id": "AQ79A",
+    "type": "Switch",
+    "region": "USA,EUR",
+    "languages": "EN,FR,DE,ES,IT,PT,TR,JA,KO,ZHCN,RU,PL",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "This War of Mine - Complete Edition",
+      "synopsis": "In war, not everyone is a soldier.\r\n\r\nIn This War Of Mine you do not play as an elite soldier, rather a group of civilians trying to survive in a besieged city; struggling with lack of food, medicine and constant danger from snipers and hostile scavengers. The game provides an experience of war seen from an entirely new angle.\r\n\r\nThe pace of This War of Mine is imposed by the day and night cycle. During the day snipers outside stop you from leaving your refuge, so you need to focus on maintaining your hideout: crafting, trading and taking care of your survivors. At night, take one of your civilians on a mission to scavenge through a set of unique locations for items that will help you stay alive.\r\n\r\nMake life-and-death decisions driven by your conscience. Try to protect everybody from your shelter or sacrifice some of them for longer-term survival. During war, there are no good or bad decisions; there is only survival. The sooner you realize that, the better.\r\n\r\n---------\r\n\r\nThis War of Mine: Complete Edition consists of:\r\n\r\n• This War of Mine – full version of the base game\r\n\r\n• Anniversary Edtion update – set of new characters to interact with, locations to explore and new possible ending, created especially for the second anniversary of the game\r\n\r\n• The Little Ones DLC – exploring the hardships of wartime survival as seen from an entirely new perspective – that of a child.\r\n\r\n• TWoM Stories: The Father’s Promise – a stand-alone original tale set in the world of This War of Mine, telling a story of family’s struggle to preserve the last pieces of humanity in times of despair and cruelty.\r\n\r\n• All the upcoming updates coming for free for all Complete Edition owners"
+    },
+    "publisher": "11 bit studios",
+    "date": {
+      "$": {
+        "year": "2019",
+        "month": "",
+        "day": ""
+      }
+    },
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": [
+        "blood",
+        "violence",
+        "strong language",
+        "mild sexual themes",
+        "use of tobacco",
+        "use of alcohol"
+      ]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "18"
+      },
+      "descriptor_PEGI": ["language", "violence"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "firmware": "5.1.0",
+        "name": "This War of Mine - Complete Edition (EN,FR,DE,ES,IT,PT,TR,JA,KO,ZHCN,RU,PL).switch",
+        "size": "2133375488",
+        "crc": "edab24a5"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "ITTA (EN,FR,DE,ES,PT,JA,ZHCN,RU)"
+    },
+    "id": "AR3WA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,PT,JA,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "ITTA",
+      "synopsis": ""
+    },
+    "developer": "Glass Revolver",
+    "publisher": "Armor Games Studios",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "4",
+        "day": "22"
+      }
+    },
+    "genre": "action,adventure",
+    "rating_ESRB": {
+      "$": {
+        "value": "T"
+      },
+      "descriptor_ESRB": ["blood", "violence"]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "12"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "ITTA (EN,FR,DE,ES,PT,JA,ZHCN,RU).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Mortal Kombat 11 (EN,FR,DE,ES,IT,PT)"
+    },
+    "id": "ASADA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,PT",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Mortal Kombat 11",
+      "synopsis": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before with an all new Custom Character Variation System that gives players the creative control to customize versions of the entire character roster. Developed by award-winning NetherRealm Studios, Mortal Kombat 11 will introduce a new cinematic story continuing the epic saga that is more than 25 years in the making.\r\n\r\nAll-New Custom Character Variation System: Offers nearly infinite customization options, giving players more control and providing a deeper and more personalized experience than ever before. Players can customize their fighters with a variety of Skins, Gear, Special Abilities, Intro and Victory Cinemas, Taunts and Brutalities that can be earned via gameplay.\r\nAll-New Story Mode: Continue the epic saga through a new cinematic story that is more than 25 years in the making. Players will take on the role of a variety of past and present characters in a time-bending new narrative that pits Raiden against Kronika, the Keeper of Time who created existence at the dawn of history.\r\nNew & Returning Fan-Favorite Characters: Choose from a roster of fighters with unique abilities and Fatalities, with new characters, such as Geras, a powerful and loyal servant of Kronika who can manipulate time, along with fan-favorite characters, including, Baraka, Raiden, Skarlet, Scorpion, Sonya Blade and Sub-Zero and more.\r\nMore Modes, Challenges & Rewards: Packed to the brim with multiple modes, including the Towers of Time, which builds upon NetherRealms's past games, allowing players to test their skills through various challenges, providing more ways than ever to continue the Mortal Kombat 11 experience.\r\nAll-New Krushing Blows & Iconic Fatalities: Showcasing brutal battles like never before with enhanced graphics and animations."
+    },
+    "publisher": "Warner Bros. Entertainment Inc.",
+    "date": {
+      "$": {
+        "year": "2019",
+        "month": "4",
+        "day": "23"
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2019",
+        "month": "4",
+        "day": "23"
+      }
+    },
+    "genre": "fighting",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": [
+        "blood",
+        "animated blood",
+        "blood and gore",
+        "violence",
+        "strong language"
+      ]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "2"
+      },
+      "feature": ["online", "download"]
+    },
+    "input": {
+      "$": {
+        "players": "2"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "1.0.0",
+        "firmware": "6.1",
+        "name": "Mortal Kombat 11 (EN,FR,DE,ES,IT,PT) (v1.0.0).switch",
+        "crc": "ee786a92"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "3"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Truck Racing Championship (EN)"
+    },
+    "id": "ASXBB",
+    "type": "Switch",
+    "region": "USA",
+    "languages": "EN",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Truck Racing Championship",
+      "synopsis": ""
+    },
+    "developer": "N-Racing",
+    "publisher": "Bigben Interactive",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "",
+        "day": ""
+      }
+    },
+    "rating_ESRB": {
+      "$": {
+        "value": "E"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "2"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Truck Racing Championship (EN).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Mutant Year Zero - Road to Eden (EN,FR,DE,ES,PT,JA,KO,ZHCN,RU)"
+    },
+    "id": "ATXRA",
+    "type": "Switch",
+    "region": "USA,EUR",
+    "languages": "EN,FR,DE,ES,PT,JA,KO,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Mutant Year Zero - Road to Eden",
+      "synopsis": "\"Mutant Year Zero: Road to Eden is one of the best additions to the tactical RPG genre years\" - 8/10 - Nintendo Life\r\n\r\n \r\n\r\nIncludes the SEED OF EVIL expansion DLC which continues the story of Mutant Year Zero: Road to Eden by adding several hours of gameplay and a new mutant character: Big Khan the Moose. Explore new locations and embark on a mission to save the Ark from a mysterious invasion. \r\n\r\nMutant Year Zero: Road to Eden is a tactical adventure game combining turn-based combat with real-time exploration, story, stealth, and strategy. \r\nExplore a post-human Earth where mankind has been eradicated by climate change, nuclear war, and pandemics. Will your team of mutants survive the Zone? "
+    },
+    "developer": "The Bearded Ladies",
+    "publisher": "Funcom Oslo",
+    "date": {
+      "$": {
+        "year": "",
+        "month": "",
+        "day": ""
+      }
+    },
+    "date_USA": {
+      "$": {
+        "year": "2019",
+        "month": "7",
+        "day": "30"
+      }
+    },
+    "date_EUR": {
+      "$": {
+        "year": "2019",
+        "month": "7",
+        "day": "30"
+      }
+    },
+    "genre": "adventure,role-playing,strategy",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": ["blood", "violence", "strong language"]
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": "language"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Mutant Year Zero - Road to Eden (EN,FR,DE,ES,PT,JA,KO,ZHCN,RU).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "DOOM 64 (EN,FR,DE,ES,IT)"
+    },
+    "id": "AUMUA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "DOOM 64",
+      "synopsis": ""
+    },
+    "developer": "id Software",
+    "publisher": "Bethesda",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "3",
+        "day": "20"
+      }
+    },
+    "genre": "action,first-person shooter",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": ["blood and gore", "violence"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "DOOM 64 (EN,FR,DE,ES,IT).switch"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Hunting Simulator 2 (EN,FR,DE,ES,IT,PT,KO,ZHCN)"
+    },
+    "id": "AW36A",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,PT,KO,ZHCN",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Hunting Simulator 2",
+      "synopsis": ""
+    },
+    "developer": "Neopica",
+    "publisher": "Nacon",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "",
+        "day": ""
+      }
+    },
+    "genre": "sports,simulation,hunting",
+    "rating_PEGI": {
+      "$": {
+        "value": "16"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "1"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Hunting Simulator 2 (EN,FR,DE,ES,IT,PT,KO,ZHCN).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Burnout Paradise - Remastered (EN,FR,DE,ES,IT,JA)"
+    },
+    "id": "AWVAA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,JA",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Burnout Paradise - Remastered",
+      "synopsis": "The multi-million selling Burnout™ franchise races onto Nintendo Switch for the first time ever.\r\n\r\nMake action your middle name as you rule the open streets of Paradise City, in Burnout™ Paradise Remastered. Test the limits of skill and endurance as you push the boundaries of speed itself. Hurtle through hectic downtown avenues to wild mountain roads. Smash through traffic, wreck your opponents, and use the open city to find shortcuts. Leave your friends in the dust and define your route to victory – or crash out in spectacular and devastating effect.\r\n\r\nPacked with 8 pieces of extra content, with 130+ vehicles, new areas to explore such as Big Surf Island, and hundreds of online challenges, embrace high-octane stunts and wanton destruction in one of the greatest arcade racers. Fully optimized for the Nintendo Switch in 60 FPS, including pinch-and-pull map control for ease of navigation. Burnout Paradise Remastered is the ultimate driving playground to play with friends or on-the-go.\r\n\r\nFeatures\r\n- THE ULTIMATE DRIVING PLAYGROUND - Throw out that driver’s handbook and blaze your own path to victory, leaving a trail of speed and destruction across the streets. Send your car launching, spinning, and smashing through traffic. Leave a very expensive trail of wreckage in your rearview. Race hard and crash harder, wrecking your friends online, or joining forces in hundreds of online\r\n- THE DEFINITIVE BURNOUT PARADISE EXPERIENCE - Burnout Paradise Remastered delivers the complete original game and 8 main DLC packs, including Big Surf Island, Burnout Bikes, and the Cops and Robbers pack. With new locations, challenges, and 130+ vehicles to explore, from hot rods to vintage classics – ready to race and ready to wreck!\r\n- FULL-THROTTLE GRAPHICS - Experience high-octane races and cinematic crashes in glorious 60 FPS. Fully optimized for the Nintendo Switch, Burnout Paradise Remastered delivers high resolution textures and a range of technical enhancements for greater visual fidelity and ease-of-play, including pinch-and-pull map control"
+    },
+    "publisher": "",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "6",
+        "day": "19"
+      }
+    },
+    "rating_CERO": {
+      "$": {
+        "value": "B"
+      }
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "7"
+      },
+      "descriptor_PEGI": "violence"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "8"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Burnout Paradise - Remastered (EN,FR,DE,ES,IT,JA).switch"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "NBA 2K21 (EN,FR,DE,ES,IT,JA,KO,ZHCN)"
+    },
+    "id": "AX6QA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,JA,KO,ZHCN",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "NBA 2K21",
+      "synopsis": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience.\r\n\r\nWith extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game."
+    },
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "9",
+        "day": "4"
+      }
+    },
+    "genre": "sports",
+    "rating_ESRB": {
+      "$": {
+        "value": "E"
+      }
+    },
+    "rating_PEGI": {
+      "$": {
+        "value": "3"
+      }
+    },
+    "wi-fi": {
+      "$": {
+        "players": "10"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "4"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "NBA 2K21 (EN,FR,DE,ES,IT,JA,KO,ZHCN).switch"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "Sniper Elite 4 (EN,FR,DE,ES,IT,ZHCN,RU)"
+    },
+    "id": "AXBYA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,IT,ZHCN,RU",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "Sniper Elite 4",
+      "synopsis": ""
+    },
+    "developer": "Rebellion",
+    "publisher": "RebellionInteract",
+    "date": {
+      "$": {
+        "year": "2020",
+        "month": "11",
+        "day": "17"
+      }
+    },
+    "genre": "adventure,action",
+    "rating_ESRB": {
+      "$": {
+        "value": "M"
+      },
+      "descriptor_ESRB": ["blood and gore", "intense violence", "language"]
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "8"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "Sniper Elite 4 (EN,FR,DE,ES,IT,ZHCN,RU).switch"
+      }
+    },
+    "case": {
+      "$": {
+        "color": ""
+      }
+    }
+  },
+  {
+    "$": {
+      "name": "R.B.I. Baseball 21 (EN,FR,DE,ES,JA)"
+    },
+    "id": "AXPFA",
+    "type": "Switch",
+    "region": "ALL",
+    "languages": "EN,FR,DE,ES,JA",
+    "locale": {
+      "$": {
+        "lang": "EN"
+      },
+      "title": "R.B.I. Baseball 21",
+      "synopsis": ""
+    },
+    "publisher": "MLBAM",
+    "date": {
+      "$": {
+        "year": "2021",
+        "month": "3",
+        "day": "16"
+      }
+    },
+    "genre": "sports,simulation,arcade",
+    "rating_PEGI": {
+      "$": {
+        "value": "3"
+      },
+      "descriptor_PEGI": "online"
+    },
+    "wi-fi": {
+      "$": {
+        "players": "0"
+      }
+    },
+    "input": {
+      "$": {
+        "players": "2"
+      },
+      "control": [
+        {
+          "$": {
+            "type": "joycon",
+            "required": "false"
+          }
+        },
+        {
+          "$": {
+            "type": "procontroller",
+            "required": "false"
+          }
+        }
+      ]
+    },
+    "mode": {
+      "$": {
+        "tv": "true",
+        "handheld": "true",
+        "tabletop": "true"
+      }
+    },
+    "rom": {
+      "$": {
+        "version": "",
+        "name": "R.B.I. Baseball 21 (EN,FR,DE,ES,JA).switch"
+      }
+    },
+    "case": {
+      "$": {
+        "versions": "2"
+      }
+    }
+  }
+]
