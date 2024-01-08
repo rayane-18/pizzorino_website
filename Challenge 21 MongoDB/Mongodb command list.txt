@@ -1,0 +1,22 @@
+db.createCollection("krusty-krab")
+db.krusty-krab.insertOne({
+  name: "Krabby Patty",
+  price: 5.99,
+  ingredients: ["secret formula", "cheese",  "onions", "tomato", "bun"]
+})
+
+db.krusty-krab.insertMany([
+  {
+    name: "Valor",
+    position: "Chef",
+    age: 35,
+    shift: "Morning"
+  },
+  {
+    name: "SpongeBob",
+    position: "Fry Cook",
+    age: 22,
+    shift: "Daytime"
+  },
+  // etc ...
+])
