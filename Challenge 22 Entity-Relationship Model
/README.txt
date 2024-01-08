@@ -1,0 +1,1 @@
+i used https://app.diagrams.net/ for the modeling try opening the file there
